@@ -1,0 +1,7 @@
+This is a tremendously half-assed Rails plugin that enables you to render MXHRs (https://github.com/dfltr/jQuery-MXHR).
+
+To install it, check this repo out directly into your /vendor/plugins directory and pray to the most lenient god you can think of.
+
+---
+
+Copyright (c) 2011 Micah Snyder <micah.snyder@gmail.com>, released under the MIT license
